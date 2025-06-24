@@ -1,0 +1,15 @@
+[submodule "addons/Humanizer"]
+    path = addons/Humanizer
+    url = https://github.com/Bauxitedev/Humanizer.git
+[submodule "addons/godot_openxr"]
+    path = addons/godot_openxr
+    url = https://github.com/GodotVR/godot_openxr.git
+[submodule "tools/MB-Lab"]
+    path = tools/MB-Lab
+    url = https://github.com/animate1978/MB-Lab.git
+[submodule "tools/rigodotify"]
+    path = tools/rigodotify
+    url = https://github.com/arkokoley/rigodotify.git
+[submodule "tools/godot-engine"]
+    path = tools/godot-engine
+    url = https://github.com/godotengine/godot.git
