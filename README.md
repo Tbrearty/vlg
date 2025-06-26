@@ -1,18 +1,10 @@
-# VLG
+# Linux-Native VAM Alternative (Godot Engine)
 
-VLG is a minimal placeholder project used for demonstration purposes.
+This project aims to build a fully local, Linux-native simulation engine inspired by Virt-A-Mate. It focuses on:
 
-## Goals
-- Provide a simple repository structure for experimentation
-- Serve as a template for future projects
+- Anatomical morphing and real-time character control
+- VR support via OpenXR
+- Physics-driven interaction and plugin ecosystem
+- Open-source, community-driven infrastructure
 
-## Usage
-Clone the repository and modify it to suit your needs:
-
-```bash
-git clone <repo-url>
-```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+**No Steam. No Wine. No emulation. Full native stack.**
